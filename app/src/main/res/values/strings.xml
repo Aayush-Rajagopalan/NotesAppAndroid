@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesAppJava</string>
+    <string name="my_notes">My Notes</string>
+    <string name="search_your_notes">Search Your Notes</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type Note Here...</string>
+    <string name="add_image">Add Image</string>
+</resources>
